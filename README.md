@@ -4,6 +4,9 @@
 
 This project implements an object detection model that predicts both class and bounding box coordinates for clothing items in the Fashion MNIST dataset.
 
+<img width="430" alt="Screenshot 2025-05-12 at 12 49 01 PM" src="https://github.com/user-attachments/assets/94f47b77-65ba-4dfd-a9c4-0bacc9aa32c3" />
+
+
 ## 📦 Features
 
 - Dual-headed neural network: class prediction and bounding box regression
